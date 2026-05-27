@@ -142,6 +142,22 @@ Focused on restaurant performance and cuisine analysis.
 - Restaurant Rating Distribution
 
 ---
+# 📷 Dashboard Preview
+
+## 📊 Overview Analytics Dashboard
+![Overview Dashboard](Power%20BI%20Dashboard/overview_dashboard.png)
+
+---
+
+## 👥 Customer Analytics Dashboard
+![Customer Dashboard](Power%20BI%20Dashboard/customer_dashboard.png)
+
+---
+
+## 🍽️ Restaurant Analytics Dashboard
+![Restaurant Dashboard](Power%20BI%20Dashboard/restaurant_dashboard.png)
+
+---
 
 # 🧠 SQL Concepts Used
 This project includes multiple SQL concepts such as:
